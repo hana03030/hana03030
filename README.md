@@ -107,18 +107,26 @@ ___
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- 활동 통계 (토큰 없이도 동작하는 최소 옵션) -->
+  <!-- 활동 통계 -->
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&hide_border=true&theme=radical&v=2" 
-  height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&hide_border=true&theme=radical&hide_rank=true&v=2" 
+    height="160" 
   />
   
   <!-- 언어 비율 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&v=2" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&v=2" 
+    height="160" 
+  />
 </p>
 
-  <!-- 연속 커밋 Streak -->
-  ![Streak](https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2)
+<!-- 연속 커밋 Streak -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2" 
+    height="160"
+  />
+</p>
 
 <p align="center">
   <!-- 트로피 -->
@@ -129,6 +137,7 @@ ___
 <p align="center">
   <img src="https://github.com/hana03030/hana03030/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
