@@ -41,7 +41,7 @@
 - **시계열 분석을 통한 위험 패턴 탐지** 연구 수행  
 - 연구 결과를 기반으로 **학술 논문 작성 및 발표 예정**
 
-<hr style="border:0.5px solid #ccc;"/>
+___
 
 ### 📊 2025 한성대학교 캡스톤 디자인 → 학술 논문 발표 → 디지털 경진대회 (과학기술정보통신부 주최, 13위)  
 **멀티모달 인플루언서 콘텐츠 호감도 분석 서비스**
@@ -54,7 +54,7 @@
 - [경진대회] 캡스톤·논문 결과를 기반으로 기능을 고도화하여  
   **디지털 경진대회 출품 → 13위 성과 달성**
 
-<hr style="border:0.5px solid #ccc;"/>
+___
 
 ### 🚀 2025 한성대학교 창업 프로그램 — AR 배달 어플  
 **AR과 AI 챗봇을 결합한 차세대 배달 서비스 앱**
@@ -64,7 +64,7 @@
 - **기획**: 비즈니스 모델 분석 및 수익 구조 설계, 서비스 운영 방향 논의  
 - **성과**: 기술과 기획을 아우르는 **서비스 개발 전 과정 경험**
 
-<hr style="border:0.5px solid #ccc;"/>
+___
 
 ### 🌏 2025 관광데이터 활용 공모전 (한국관광공사 & Kakao 주최)  
 **AI 기반 개인화 루트 추천 & 다국어 지원 서비스**
@@ -74,7 +74,7 @@
 - 프론트엔드 개발 전반: UI/UX 디자인, 화면 흐름 설계, 데이터 연동, 다국어 처리 담당  
 - **다국어 지원(한·중·일·영)** 구현 및 다국어 챗봇 제공 → 외국인·한국인 모두 활용 가능  
 
-<hr style="border:0.5px solid #ccc;"/>
+___
 
 ### 🏅 2024 한성대학교 공학경진대회 (금상) — 생성형 AI 동화 제작 어플  
 **생성형 AI를 활용한 아동 참여형 동화 제작 모바일 앱**
@@ -88,24 +88,57 @@
 ## 📘 Other Activities
 
 ### 👩‍💻 컴퓨터공학 스터디 소모임 (JAVA, SQL)  
-  **Role:** 팀 학습 · 코드 리뷰 진행  
-  - DB: 인프런 강의 기반으로 매주 학습한 내용을 리뷰하고, SQL 코드를 함께 작성하며 실습  
-  - JAVA: 교재 진도 학습과 문제 풀이를 병행하고, 코드 리뷰를 통해 효율적인 구현 방법을 토론  
-  - 팀원들과 **문제 풀이 → 코드 리뷰 → 개선** 과정을 반복하며 협업 능력 및 문제 해결 능력 강화  
+**Role:** 팀 학습 · 코드 리뷰 진행  
+- DB: 인프런 강의 기반으로 매주 학습한 내용을 리뷰하고, SQL 코드를 함께 작성하며 실습  
+- JAVA: 교재 진도 학습과 문제 풀이를 병행하고, 코드 리뷰를 통해 효율적인 구현 방법을 토론  
+- 팀원들과 **문제 풀이 → 코드 리뷰 → 개선** 과정을 반복하며 협업 능력 및 문제 해결 능력 강화  
 
-<hr style="border:0.5px solid #ccc;"/>
+___
 
 ### 👩‍🏫 전공 튜터링 (자료구조, 객체지향언어1-C++)  
-  **Role:** 전공 튜터 · 학습 진행 및 평가  
-  - 매주 진도에 맞춰 자료구조 & C++ 내용을 직접 설명하고, 문제 풀이 후 리뷰 세션 진행  
-  - 튜티들의 학습 상황에 맞춘 **코딩테스트 연습** 및 코드 리뷰  
-  - 직접 문제를 제작·배포하고, 채점 및 피드백을 제공하여 학습 성과를 점검  
-  - 복잡한 개념을 쉽게 풀어내는 설명 능력 및 지도 역량 향상
+**Role:** 전공 튜터 · 학습 진행 및 평가  
+- 매주 진도에 맞춰 자료구조 & C++ 내용을 직접 설명하고, 문제 풀이 후 리뷰 세션 진행  
+- 튜티들의 학습 상황에 맞춘 **코딩테스트 연습** 및 코드 리뷰  
+- 직접 문제를 제작·배포하고, 채점 및 피드백을 제공하여 학습 성과를 점검  
+- 복잡한 개념을 쉽게 풀어내는 설명 능력 및 지도 역량 향상
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <!-- 활동 통계 카드 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" 
+    height="160"
+  />
+  
+  <!-- 사용 언어 카드 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&theme=radical" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <!-- 연속 커밋 Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=hana03030&theme=radical&hide_border=true" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <!-- 트로피 -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=7" 
+  />
+</p>
+
+<!-- 스네이크 애니메이션 (추가 설정 필요: GitHub Actions) -->
+<p align="center">
+  <img src="https://github.com/hana03030/hana03030/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
