@@ -107,35 +107,24 @@ ___
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- 활동 통계 카드 -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" 
-    height="160"
-  />
+  <!-- 활동 통계 (토큰 없이도 동작하는 최소 옵션) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&hide_border=true&v=2" height="160" />
   
-  <!-- 사용 언어 카드 -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&theme=radical" 
-    height="160"
-  />
+  <!-- 언어 비율 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&v=2" height="160" />
 </p>
 
 <p align="center">
   <!-- 연속 커밋 Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=hana03030&theme=radical&hide_border=true" 
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2" height="160" />
 </p>
 
 <p align="center">
   <!-- 트로피 -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=7" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=3&title=Commits,PullRequest,Experience&v=2" />
 </p>
 
-<!-- 스네이크 애니메이션 (추가 설정 필요: GitHub Actions) -->
+<!-- Snake 애니메이션 -->
 <p align="center">
   <img src="https://github.com/hana03030/hana03030/blob/output/github-contribution-grid-snake.svg" />
 </p>
