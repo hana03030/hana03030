@@ -116,7 +116,7 @@ ___
 
 <p align="center">
   <!-- 연속 커밋 Streak -->
-  <img src="https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2" height="160" />
+  ![Streak](https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2)
 </p>
 
 <p align="center">
