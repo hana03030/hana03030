@@ -112,17 +112,21 @@ ___
     src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&hide_border=true&theme=radical&hide_rank=true&v=2" 
     height="160" 
   />
-  
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60" />
+</p>
+
+<p align="center">
   <!-- 언어 비율 -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&v=2" 
     height="160" 
   />
-</p>
 
-<p align="center">
   <!-- 트로피 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=3&title=Commits,PullRequest,Experience&v=2" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=3&title=Commits,PullRequest,Experience&v=2" 
+    height="160"
+  />
 </p>
 
 ---
