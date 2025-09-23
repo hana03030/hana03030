@@ -120,24 +120,10 @@ ___
   />
 </p>
 
-<!-- 연속 커밋 Streak -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=hana03030&hide_border=true&v=2" 
-    height="160"
-  />
-</p>
-
 <p align="center">
   <!-- 트로피 -->
   <img src="https://github-profile-trophy.vercel.app/?username=hana03030&theme=onedark&no-frame=true&row=1&column=3&title=Commits,PullRequest,Experience&v=2" />
 </p>
-
-<!-- Snake 애니메이션 -->
-<p align="center">
-  <img src="https://github.com/hana03030/hana03030/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 ---
 
