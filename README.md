@@ -32,7 +32,7 @@
 
 ## 📂 Featured Projects
 
-- 🏅 **2024 한성대학교 공학경진대회 (금상) — 생성형 AI 동화 제작 어플**  
+### 🏅2024 한성대학교 공학경진대회 (금상) — 생성형 AI 동화 제작 어플  
   *생성형 AI를 활용한 아동 참여형 동화 제작 모바일 앱*  
   **Role:** 기획 · UI/UX · 프론트엔드 설계 및 구현  
   - 사용자가 직관적으로 동화를 만들 수 있는 인터페이스 설계 및 구현  
@@ -101,8 +101,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&theme=radical" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" 
+    height="160" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true&theme=radical" 
+    height="160" 
+  />
 </p>
 
 ---
