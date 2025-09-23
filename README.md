@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm juhyun Lee</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=👋 Hi, I'm Juhyun %20Lee&fontAlign=50&fontAlignY=35&fontSize=44&animation=fadeIn"
+    alt="Header"
+  />
+</p>
+
 <p align="center">
   <em>Aspiring Data Scientist · Web/App Developer</em>
 </p>
