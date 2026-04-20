@@ -13,8 +13,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Hansung University · Mobile Software & Web Engineering
-- 🚀 Interested in **Data Science** & **Web/App Development**
-- 🌱 Currently exploring **AI-driven data analysis**, **AR applications**, and **user-centered UX design**
+- 🚀 Interested in **Web/App Development** & **user-centered UX design**
 - ✍️ Love collaborating on projects, designing intuitive interfaces, and applying AI to solve real-world problems
 
 ---
@@ -29,10 +28,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 
-  <!-- Data/AI -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-
   <!-- Web/App -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black"/>
@@ -45,6 +40,17 @@
 
 ---
 
+## 🔧 Tech & Tools
+
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> |
+| **Design/Collab** | <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/> |
+
+---
+
 ## 📂 Featured Projects
 
 ### 🔬 2025 한성대학교 산학 공동 연구 프로젝트 
@@ -54,7 +60,7 @@
 - 캡스톤에서 개발한 **사이버불링 점수·에코체임버 점수 산출 로직**을 확장  
 - 텍스트 전처리, 감정 분석, 군집화 모델 설계 및 적용  
 - **시계열 분석을 통한 위험 패턴 탐지** 연구 수행  
-- 연구 결과를 기반으로 **학술 논문 작성 및 발표 예정**
+- 연구 결과를 기반으로 **학술 논문 작성 및 발표 완료**
 
 ___
 
