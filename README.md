@@ -42,12 +42,55 @@
 
 ## 🔧 Tech & Tools
 
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> |
-| **Design/Collab** | <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/> |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="center">Category</th>
+      <th width="80%" align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Cloud</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Design/Collab</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
