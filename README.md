@@ -6,37 +6,15 @@
 </p>
 
 <p align="center">
-  <em>Aspiring Data Scientist · Web/App Developer</em>
+  <em>Web/App Developer · Data Scientist</em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 Hansung University · Mobile Software & Web Engineering
-- 🚀 Interested in **Web/App Development** & **user-centered UX design**
+- 🚀 Interested in Web/App Development & user-centered UX design
 - ✍️ Love collaborating on projects, designing intuitive interfaces, and applying AI to solve real-world problems
-
----
-
-## 🔧 Tech Stack
-<p>
-  <!-- Language -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-
-  <!-- Web/App -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/>
-
-  <!-- DB & Cloud -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-</p>
 
 ---
 
@@ -53,7 +31,7 @@
     <tr>
       <td align="center"><b>Languages</b></td>
       <td>
-        <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/C-123455?logo=c&logoColor=blue"/>
         <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -94,62 +72,63 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🔬 2025 한성대학교 산학 공동 연구 프로젝트 
-**캡스톤 심화 — 인플루언서 콘텐츠 위험 패턴 시계열 분석**
-
-**Role:** AI 모듈 설계 및 데이터 분석  
-- 캡스톤에서 개발한 **사이버불링 점수·에코체임버 점수 산출 로직**을 확장  
-- 텍스트 전처리, 감정 분석, 군집화 모델 설계 및 적용  
-- **시계열 분석을 통한 위험 패턴 탐지** 연구 수행  
-- 연구 결과를 기반으로 **학술 논문 작성 및 발표 완료**
-
-___
-
-### 📊 2025 한성대학교 캡스톤 디자인 → 학술 논문 발표 → 디지털 경진대회 (과학기술정보통신부 주최, 13위)  
+### 📊 SCOPE
 **멀티모달 인플루언서 콘텐츠 호감도 분석 서비스**
 
-**Role:** 기획 아이디어 도출 · 전체 설계 · 프론트엔드 & 데이터 시각화 구현  
-- [캡스톤] 영상·댓글·좋아요 지표를 멀티모달로 분석하여  
-  감정 및 군집화 결과를 기반으로 **호감도 점수 도출 웹서비스** 개발  
-- [논문] 분석 방법론과 결과를 정리해 **학술 논문 작성 및 발표**  
-  → 공동저자 참여: [논문 링크](https://koreascience.kr/article/CFKO202521054005934.page)  
+**👩‍💻Role:** 기획 아이디어 도출 · 전체 설계 · 프론트엔드 & 데이터 시각화 구현  
+- 영상·댓글·좋아요 지표를 멀티모달로 분석하여  
+  감정 및 군집화 결과를 기반으로 호감도 점수 도출 웹서비스 개발  
+- [논문] 분석 방법론과 결과를 정리해 학술 논문 작성 및 발표  
+ACK 2025 학술발표대회에서 은상 수상🏆  
+  → 공동저자 참여: [ASK 2025 학술발표대회 논문](https://koreascience.kr/article/CFKO202521054005934.page)  
+  → 공동저자 참여: [ACK 2025 학술발표대회 논문](https://koreascience.kr/article/CFKO202532472036128.page)  
 - [경진대회] 캡스톤·논문 결과를 기반으로 기능을 고도화하여  
-  **디지털 경진대회 출품 → 13위 성과 달성**
+  학교 대표로 디지털 경진대회 출품 / SW 인재 페스티벌 참가
 
 ___
 
-### 🚀 2025 한성대학교 창업 프로그램 — AR 배달 어플  
-**AR과 AI 챗봇을 결합한 차세대 배달 서비스 앱**
-
-**Role:** 풀스택 개발 (백엔드 · 프론트엔드) · 데이터베이스 설계 · 배포 · 서비스 기획  
-- **기술**: 서비스 아키텍처, ERD 및 데이터 구조 설계, 백엔드·프론트엔드 구현, 배포까지 담당  
-- **기획**: 비즈니스 모델 분석 및 수익 구조 설계, 서비스 운영 방향 논의  
-- **성과**: 기술과 기획을 아우르는 **서비스 개발 전 과정 경험**
-
-___
-
-
-### 🌏 2025 관광데이터 활용 공모전 (한국관광공사 & Kakao 주최)  
+### 🌏 K-Route
 **AI 기반 개인화 루트 추천 & 다국어 지원 서비스**
 
 📱 **현재 [원스토어](https://m.onestore.co.kr/v2/ko-kr/app/0001002337) 에 출시되어 실제 서비스 운영 중**
 
-**Role:** UI/UX 디자인 설계 · 프론트엔드 개발 (React Native)  
-- 사용자의 취향, 일정, 위치 데이터를 기반으로 **AI 맞춤형 한류 테마 루트 추천**  
-- **프론트엔드 전반 담당**: UI/UX 디자인, 화면 흐름 설계, API 연동, 다국어 처리  
-- **다국어 지원(한·중·일·영)** 구현 및 다국어 챗봇 제공 → 외국인·한국인 모두 활용 가능  
-
+**👩‍💻Role:** UI/UX 디자인 설계 · 프론트엔드 개발
+- 2025 관광데이터 활용 공모전 (한국관광공사 & Kakao 주최) 프로젝트
+- 사용자의 취향, 일정, 위치 데이터를 기반으로 AI 맞춤형 한류 테마 루트 추천 
+- 프론트엔드 담당: UI/UX 디자인, 화면 흐름 설계, API 연동, 다국어 처리  
+- 다국어 지원(한·중·일·영) 구현 및 다국어 챗봇 제공 → 외국인·한국인 모두 활용 가능  
 
 ___
 
-### 🏅 2024 한성대학교 공학경진대회 (금상) — 생성형 AI 동화 제작 어플  
+### 🔬 산학 공동 연구 프로젝트 
+**인플루언서 콘텐츠 위험 패턴 분석**
+
+**👩‍💻Role:** 데이터 분석  
+- 캡스톤에서 개발한 사이버불링 점수·에코체임버 점수 산출 로직을 확장  
+- 텍스트 전처리, 감정 분석, 군집화 모델 설계 및 적용  
+- 시계열 분석을 통한 위험 패턴 탐지 연구 수행  
+- 연구 결과를 기반으로 학술 논문 작성 및 발표 완료
+
+___
+
+### 🚀 FORK
+**AR과 AI 챗봇을 결합한 배달 서비스 앱**
+
+**👩‍💻Role:** 풀스택 개발 (백엔드 · 프론트엔드) · 데이터베이스 설계 · 배포 · 서비스 기획
+- 2025 창업 프로그램 프로젝트
+- 서비스 아키텍처, ERD 및 데이터 구조 설계, 백엔드·프론트엔드 구현, 배포까지 담당  
+- 비즈니스 모델 분석 및 수익 구조 설계, 서비스 운영 방향 논의  
+- 기술과 기획을 포함한 서비스 개발 전 과정 경험
+___
+
+### 📖 동화공작소
 **생성형 AI를 활용한 아동 참여형 동화 제작 모바일 앱**
 
-**Role:** 기획 · UI/UX · 프론트엔드 설계 및 구현  
+**👩‍💻Role:** 기획 · UI/UX · 프론트엔드 설계 및 구현  
 - 사용자가 직관적으로 동화를 만들 수 있는 인터페이스 설계 및 구현  
-- 참여형 UI/UX 설계로 높은 평가를 받아 **금상 수상**
+- 참여형 UI/UX 설계로 높은 평가를 받아 2024 공학경진대회에서 금상 수상🏆
 
 ---
 
@@ -159,7 +138,7 @@ ___
 **Role:** 팀 학습 · 코드 리뷰 진행  
 - DB: 인프런 강의 기반으로 매주 학습한 내용을 리뷰하고, SQL 코드를 함께 작성하며 실습  
 - JAVA: 교재 진도 학습과 문제 풀이를 병행하고, 코드 리뷰를 통해 효율적인 구현 방법을 토론  
-- 팀원들과 **문제 풀이 → 코드 리뷰 → 개선** 과정을 반복하며 협업 능력 및 문제 해결 능력 강화  
+- 팀원들과 문제 풀이 → 코드 리뷰 → 개선 과정을 반복하며 협업 능력 및 문제 해결 능력 강화  
 
 ---
 
