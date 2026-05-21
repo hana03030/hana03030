@@ -20,7 +20,7 @@
 
 ## 🔧 Tech & Tools
 
-<table width="100%">
+<table width="600px">
   <thead>
     <tr>
       <th width="20%" align="center">Category</th>
