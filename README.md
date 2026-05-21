@@ -20,11 +20,11 @@
 
 ## 🔧 Tech & Tools
 
-<table width="600px">
+<table width="100%">
   <thead>
     <tr>
-      <th width="20%" align="center">Category</th>
-      <th width="80%" align="center">Stack</th>
+      <th align="center">Category</th>
+      <th align="center">Stack</th>
     </tr>
   </thead>
   <tbody>
