@@ -108,22 +108,6 @@ ___
 - JAVA: 교재 진도 학습과 문제 풀이를 병행하고, 코드 리뷰를 통해 효율적인 구현 방법을 토론  
 - 팀원들과 문제 풀이 → 코드 리뷰 → 개선 과정을 반복하며 협업 능력 및 문제 해결 능력 강화  
 
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <!-- 활동 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hana03030&show_icons=true&hide_border=true&theme=radical&hide_rank=true" height="160" />
-</p>
-
-<p align="left">
-  <!-- 언어 비율 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana03030&layout=compact&hide_border=true" height="160" />
-</p>
-
 ---
 
 ## ✨ Fun Stuff
