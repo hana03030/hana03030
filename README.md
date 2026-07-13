@@ -114,3 +114,9 @@ ___
 - 🌈 Exploring **AI applications in society**
 - 🎬 Editing UI demo videos & Reels for projects
 - ☕ Coffee keeps my code alive
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hana03030" width="1000" height="120"/>
+</a>
