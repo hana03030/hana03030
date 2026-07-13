@@ -118,5 +118,5 @@ ___
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hana03030" width="100%" height="auto"/>
+  <img src="https://render.gitanimals.org/farms/hana03030" width="70%" height="auto"/>
 </a>
