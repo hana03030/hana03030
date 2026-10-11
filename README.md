@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Web/App Developer · Data Scientist</em>
+  <em>Web/App Developer
 </p>
 
 ---
